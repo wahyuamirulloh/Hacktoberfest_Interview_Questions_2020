@@ -1,0 +1,20 @@
+//1.What is different var and let
+
+- Var
+var is a global variable
+- Let
+let is a local variable
+
+
+//2.Explain, What is a Function
+
+- Function is a structure, a grouping containing statements that will be executed by the CPU if the name of the function is called to be executed, 
+except for the main function which is int main () which will be executed automatically.
+
+//3.What is a Global Scope
+
+- Global scope is the outermost scope in JavaScript.
+
+//4.What is a Block Scope
+
+- Block scope adalah area yang dicakup oleh scope yang ada di dalam statement if-else atau looping,
